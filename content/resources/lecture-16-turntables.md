@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Videos
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/mit21m_380f09_lec16 "Open in
+  a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Turntables '
 uid: ced7b71a-8d7a-d572-cc37-ba96357bcb02

@@ -2,6 +2,19 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Videos
+parent_type: CourseSection
+related_resources_text: 'This section contains documents that are inaccessible to
+  screen reader software. A "#" symbol is used to denote such documents.
+
+
+  Lecture Notes ([PDF](resources/mit21m_380f09_lec12 "Open in a new window.")){{<
+  sup "#" >}}'
+resource_index_text: ''
 resourcetype: Video
 title: Lecture 12 Workshop
 uid: 2960a0ea-68c9-1365-3fb9-6978149a2ce5
