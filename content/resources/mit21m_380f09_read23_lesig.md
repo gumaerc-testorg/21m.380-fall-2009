@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Listening
 parent_type: CourseSection
+parent_uid: cec78f71-cc43-b0db-0591-d7824c6a3bc8
 resourcetype: Document
 title: MIT21M_380F09_read23_lesig.pdf
 uid: ee19eee0-f5cb-db9b-a673-aa8d541d5ffb

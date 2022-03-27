@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Listening
 parent_type: CourseSection
+parent_uid: cec78f71-cc43-b0db-0591-d7824c6a3bc8
 resourcetype: Document
 title: MIT21M_380F09_read02_sousa.pdf
 uid: 18ab3aba-9fe7-aa15-02a5-5cd049333659

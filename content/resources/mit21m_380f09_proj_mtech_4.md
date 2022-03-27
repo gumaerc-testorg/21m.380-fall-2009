@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 5edcea28-1124-ac3d-9721-7bff16ad4a2e
 resourcetype: Document
 title: MIT21M_380F09_proj_mtech_4.pdf
 uid: 100d567e-940e-7e62-e477-c29a24defeec

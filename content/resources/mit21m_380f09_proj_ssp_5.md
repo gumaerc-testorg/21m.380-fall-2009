@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 5edcea28-1124-ac3d-9721-7bff16ad4a2e
 resourcetype: Document
 title: MIT21M_380F09_proj_ssp_5.pdf
 uid: af8f90bf-b78c-4852-a03b-07f3888a9e1a

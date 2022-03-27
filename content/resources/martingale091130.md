@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: f9ee8e1a-9d84-4aa6-0c0b-42282a5db9c4
 resourcetype: Other
 title: martingale091130.zip
 uid: 00af060e-915e-ea8a-164e-0ea76fd1c697

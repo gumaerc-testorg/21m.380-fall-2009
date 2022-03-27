@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
+parent_uid: 0bf9e3e5-3949-e55b-35b4-8b3bbbf1c4fc
 resourcetype: Document
 title: MIT21M_380F09_lec_contents.pdf
 uid: 9e0dc6ff-3c84-6947-7bdb-d6e8ce190c62

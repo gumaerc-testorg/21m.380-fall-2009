@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -12,6 +13,7 @@ related_resources_text: Lecture Notes ([PDF](resources/mit21m_380f09_lec16 "Open
   a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Turntables '
 uid: ced7b71a-8d7a-d572-cc37-ba96357bcb02
 video_files:
