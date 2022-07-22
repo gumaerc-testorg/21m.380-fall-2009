@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/3f02be78daa25a2a77594ac0ed14228f_MIT21M_380F09_proj_ssp_2.pdf
+file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/3f02be78daa25a2a77594ac0ed14228f_MIT21M_380F09_proj_ssp_2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -13,7 +15,7 @@ related_resources_text: 'This section contains documents that are inaccessible t
   screen reader software. A "#" symbol is used to denote such documents.
 
 
-  Lecture Notes ([PDF](resources/mit21m_380f09_lec12 "Open in a new window.")){{<
+  Lecture Notes ([PDF](/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/resources/mit21m_380f09_lec12)){{<
   sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
@@ -32,3 +34,4 @@ video_metadata:
 **Topics covered:** Discussion
 
 **Instructor:** Christopher Ariza
+
