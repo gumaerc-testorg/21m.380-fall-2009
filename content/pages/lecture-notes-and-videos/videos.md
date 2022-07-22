@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lecture Notes and Videos
+parent_type: CourseSection
 parent_uid: 0bf9e3e5-3949-e55b-35b4-8b3bbbf1c4fc
 title: Videos
 uid: 2408f4d7-c29e-5a5f-a2e0-64e2527b81b8
