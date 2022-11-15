@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course bibliography and the schedule of reading
+  and listening assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings and Listening
 uid: cec78f71-cc43-b0db-0591-d7824c6a3bc8
 ---
 
-Course bibliography ([PDF]({{< baseurl >}}/resources/mit21m_380f09_read_biblio))
+Course bibliography ({{% resource_link 43653e47-95ca-e75e-31ca-8a10bf12c7d8 "PDF" %}})
 
 Reading and Listening Assignments
 ---------------------------------
@@ -86,7 +88,7 @@ The science and visualization of sound
 
 \[Holmes\]. "Principles of Analog Synthesis and Voltage Control," pp. 173-206.
 
-Sousa, J. P. "The Menace of Mechanical Music." 1906. ([PDF]({{< baseurl >}}/resources/mit21m_380f09_read02_sousa))
+Sousa, J. P. "The Menace of Mechanical Music." 1906. ({{% resource_link 18ab3aba-9fe7-aa15-02a5-5cd049333659 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -222,7 +224,7 @@ In \[Holmes\]:
 \- "The Microprocessor Revolution (1975-90)," pp. 271-293.  
 \- "The Principles of Computer Music," pp. 294-318.
 
-Sterne, J. "The mp3 as Cultural Artifact." _New Media & Society_ 8, no. 5 (2006): 825-842. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://sterneworks.org/mp3.pdf))
+Sterne, J. "The mp3 as Cultural Artifact." _New Media & Society_ 8, no. 5 (2006): 825-842. ([PDF](http://sterneworks.org/mp3.pdf))
 
 
 {{< tdclose >}}
@@ -249,7 +251,7 @@ Processing audio and the modern recording studio
 
 Horning, S. S. (Braun). "From Polka to Punk: Growth of an Independent Recording Studio, 1934-1977." In \[Braun\], pp. 136-145.
 
-Nielsen, S. H., and T. Lund. "Overload in Signal Conversion." _AES 23rd International Conference._ 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://service.tcgroup.tc/media/nielsen_lund_2003_overload.pdf))
+Nielsen, S. H., and T. Lund. "Overload in Signal Conversion." _AES 23rd International Conference._ 2003. ([PDF](http://service.tcgroup.tc/media/nielsen_lund_2003_overload.pdf))
 
 
 {{< tdclose >}}
@@ -412,7 +414,7 @@ Discussion and workshop
 {{< tdopen >}}
 
 
-Bimber, B. "Karl Marx and the Three Faces of Technological Determinism." _Social Studies of Science_ 20, no. 2 (1990): 333-351. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/sts/pubs/pdfs/MIT_STS_WorkingPaper_11_Bimber_2.pdf))
+Bimber, B. "Karl Marx and the Three Faces of Technological Determinism." _Social Studies of Science_ 20, no. 2 (1990): 333-351. ([PDF](http://web.mit.edu/sts/pubs/pdfs/MIT_STS_WorkingPaper_11_Bimber_2.pdf))
 
 In \[Collins\]:  
 \- "The World's Simplest Circuit: Six Oscillators on a Chip, Guranteed to Work (pp. 129-145)  
@@ -754,7 +756,7 @@ Intellectual property and copyright
 {{< tdopen >}}
 
 
-Lessig, L. "Eldred." Chapter 13 in _Free Culture_. 2005. ISBN: 9780143034650. ([PDF - 1.0MB]({{< baseurl >}}/resources/mit21m_380f09_read23_lesig))
+Lessig, L. "Eldred." Chapter 13 in _Free Culture_. 2005. ISBN: 9780143034650. ({{% resource_link ee19eee0-f5cb-db9b-a673-aa8d541d5ffb "PDF - 1.0MB" %}})
 
 
 {{< tdclose >}}

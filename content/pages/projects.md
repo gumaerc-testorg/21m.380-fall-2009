@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on a music technology case study, a
+  sonic system project and presentation, and examples of student work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -18,19 +20,19 @@ The music technology must be critically examined. Opportunities for critical exa
 
 ### Student Work
 
-"From Physical Law to Artistic Expression: An Analysis of the Theremin" by anonymous MIT student ([PDF]({{< baseurl >}}/resources/mit21m_380f09_proj_mtech_1))
+"From Physical Law to Artistic Expression: An Analysis of the Theremin" by anonymous MIT student ({{% resource_link 4c9f255e-b012-c314-7cd9-b2f12d156d2d "PDF" %}})
 
-"A Historical and Technical Analysis of the Guitar Pickup" by anonymous MIT student ([PDF]({{< baseurl >}}/resources/mit21m_380f09_proj_mtech_2))
+"A Historical and Technical Analysis of the Guitar Pickup" by anonymous MIT student ({{% resource_link 8bf7d7e3-f056-9470-371d-650f8087f7ff "PDF" %}})
 
-"The Fate of Auto-Tune" by Joe Diaz ([PDF]({{< baseurl >}}/resources/mit21m_380f09_proj_mtech_3))
+"The Fate of Auto-Tune" by Joe Diaz ({{% resource_link c03b2acb-3529-350f-4ff6-3f537478b89a "PDF" %}})
 
-"From the Rhythmicon to the TR808: How electronic rhythm reached maturity" by anonymous MIT student ([PDF]({{< baseurl >}}/resources/mit21m_380f09_proj_mtech_4))
+"From the Rhythmicon to the TR808: How electronic rhythm reached maturity" by anonymous MIT student ({{% resource_link 100d567e-940e-7e62-e477-c29a24defeec "PDF" %}})
 
-"Duration in Composition" by Greg Perkins ([PDF]({{< baseurl >}}/resources/mit21m_380f09_proj_mtech_5))
+"Duration in Composition" by Greg Perkins ({{% resource_link 6bcbefdc-5182-8995-8702-93cb4d624a1c "PDF" %}})
 
-"From Kitsch to Kanye: The Meteoric Rise of the TR-808" by Jillian Reddy ([PDF]({{< baseurl >}}/resources/mit21m_380f09_proj_mtech_6))
+"From Kitsch to Kanye: The Meteoric Rise of the TR-808" by Jillian Reddy ({{% resource_link 8f39d9ea-7945-9c1e-21d2-1e24e231f10f "PDF" %}})
 
-"What makes an iPhone Instrument Interface Successful?" by Andrew Sugaya ([PDF]({{< baseurl >}}/resources/mit21m_380f09_proj_mtech_7))
+"What makes an iPhone Instrument Interface Successful?" by Andrew Sugaya ({{% resource_link f1fcf525-ce2c-4ba6-d1f2-817a2e855e7c "PDF" %}})
 
 Sonic System Project and Presentation
 -------------------------------------
@@ -48,17 +50,17 @@ Students must also prepare and deliver a ten to fifteen minute aural presentatio
 
 ### Student Work
 
-"A Breath-Controlled Arduino Theremin: The Airemino" by anonymous MIT student ([PDF]({{< baseurl >}}/resources/mit21m_380f09_proj_ssp_1))
+"A Breath-Controlled Arduino Theremin: The Airemino" by anonymous MIT student ({{% resource_link ed157e8e-b0f6-2690-475d-c9dfc634619e "PDF" %}})
 
-"Sonic System Report: Mellotron PureData Patch" by Joe Diaz ([PDF - 1.4MB]({{< baseurl >}}/resources/mit21m_380f09_proj_ssp_3))
+"Sonic System Report: Mellotron PureData Patch" by Joe Diaz ({{% resource_link da1b62a0-df33-4df3-5332-28ce04194967 "PDF - 1.4MB" %}})
 
-"The XY Drum" by anonymous MIT student ([PDF]({{< baseurl >}}/resources/mit21m_380f09_proj_ssp_4))
+"The XY Drum" by anonymous MIT student ({{% resource_link b18db8c9-c678-c6a5-c5ae-7b9a3fd8fc16 "PDF" %}})
 
-"Shaped Vocoder" by Greg Perkins ([PDF]({{< baseurl >}}/resources/mit21m_380f09_proj_ssp_5))
+"Shaped Vocoder" by Greg Perkins ({{% resource_link af8f90bf-b78c-4852-a03b-07f3888a9e1a "PDF" %}})
 
-"Turbo-Sonic Whopper" by Jillian Reddy ([PDF]({{< baseurl >}}/resources/mit21m_380f09_proj_ssp_6))  
+"Turbo-Sonic Whopper" by Jillian Reddy ({{% resource_link d9cc0997-e123-8a40-1f4b-6ec0f1239966 "PDF" %}})  
 Audio demo of the Turbo-Sonic Whopper  
 Internet Archive ([MP3](http://www.archive.org/download/MIT21M.380F08/proj_ssp_6.mp3)) ([WAV - 5.77MB](http://www.archive.org/download/MIT21M.380F08/proj_ssp_6.wav))  
 [iTunesU (MP3)](https://itunes.apple.com/us/itunes-u/id385156727)
 
-"The ChordMaster" by Andrew Sugaya ([PDF]({{< baseurl >}}/resources/mit21m_380f09_proj_ssp_7))
+"The ChordMaster" by Andrew Sugaya ({{% resource_link b1d5d22d-4f1a-03bb-f661-1dd2e2b25457 "PDF" %}})

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes, lecture videos, and a complete set of notes that can be downloaded
+  as a single file.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Notes and Videos
@@ -8,8 +11,8 @@ uid: 0bf9e3e5-3949-e55b-35b4-8b3bbbf1c4fc
 
 The course lecture notes are presented, one chapter per session, in the table below. These two files can be added to produce a complete "book."
 
-*   Cover and table of contents ([PDF]({{< baseurl >}}/resources/mit21m_380f09_lec_contents))
-*   References ([PDF]({{< baseurl >}}/resources/mit21m_380f09_lec_referncs))
+*   Cover and table of contents ({{% resource_link 9e0dc6ff-3c84-6947-7bdb-d6e8ce190c62 "PDF" %}})
+*   References ({{% resource_link de95c859-cf85-5416-c6a2-7e5246344320 "PDF" %}})
 
 The compete set of notes (all files in the table below), can also be downloaded as a single large file ([PDF - 37MB](/ans7870/21m/21m.380/F09/MIT21M_380F09_complete.pdf)).
 
@@ -46,7 +49,7 @@ LECTURE VIDEOS
 Music and music technology
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380f09_lec01))
+({{% resource_link 9e2c9b43-4cc1-314c-9169-c7a39e905ea5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -61,7 +64,7 @@ Music and music technology
 The science and visualization of sound
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB]({{< baseurl >}}/resources/mit21m_380f09_lec02))
+({{% resource_link 36816fe2-2d8d-85d1-c740-24dd774cbf6e "PDF - 1.5MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -82,7 +85,7 @@ The science and visualization of sound
 The history of analog audio
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.0MB]({{< baseurl >}}/resources/mit21m_380f09_lec03))
+({{% resource_link 8c0ea94b-9d2d-4667-ea46-3f6d28e37118 "PDF - 3.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -97,7 +100,7 @@ The history of analog audio
 Microphones and Radio
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7MB]({{< baseurl >}}/resources/mit21m_380f09_lec04))
+({{% resource_link 1188db40-f7bc-2daa-5185-b652cb51e66b "PDF - 1.7MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -112,7 +115,7 @@ Microphones and Radio
 Discussion and workshop
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9MB]({{< baseurl >}}/resources/mit21m_380f09_lec05))
+({{% resource_link b581707b-4594-4a08-83f4-16e4e0cd5b99 "PDF - 1.9MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -127,7 +130,7 @@ Discussion and workshop
 Digital audio
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6MB]({{< baseurl >}}/resources/mit21m_380f09_lec06))
+({{% resource_link dad5d755-8109-b079-1f47-23a172f6e8c9 "PDF - 1.6MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -142,7 +145,7 @@ Digital audio
 Processing audio and the modern recording studio
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7MB]({{< baseurl >}}/resources/mit21m_380f09_lec07))
+({{% resource_link 094e0008-2ece-4ed6-b20f-f8e356732311 "PDF - 1.7MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -157,7 +160,7 @@ Processing audio and the modern recording studio
 Musique concrète and electronic music
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF)]({{< baseurl >}}/resources/mit21m_380f09_lec08)
+({{% resource_link 6f7125d7-efbb-0e9b-74ab-f537f0a04e8b "PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -172,7 +175,7 @@ Musique concrète and electronic music
 Discussion and workshop
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380f09_lec09))
+({{% resource_link 2ed20181-ab94-6cc7-43df-d4fbb5908a9f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -193,7 +196,7 @@ Discussion and workshop
 Mechanical automations and innovations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.7MB]({{< baseurl >}}/resources/mit21m_380f09_lec10))
+({{% resource_link 7ecc38d7-d55f-31fd-bb73-d49a9f861813 "PDF - 3.7MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -208,7 +211,7 @@ Mechanical automations and innovations
 Electronic and electromagnetic instruments
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9MB]({{< baseurl >}}/resources/mit21m_380f09_lec11))
+({{% resource_link a214eb84-ccb6-8203-ecdb-4b1df2b60bf9 "PDF - 1.9MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -223,7 +226,7 @@ Electronic and electromagnetic instruments
 Discussion and workshop
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_380f09_lec12))
+({{% resource_link 9311efbf-3e71-e7b9-69c7-fb92012b7ad2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [Video 1]({{< baseurl >}}/pages/lecture-notes-and-videos/videos/lecture-12-discussion)  
@@ -239,7 +242,7 @@ Discussion and workshop
 Modular synthesizers
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.0MB]({{< baseurl >}}/resources/mit21m_380f09_lec13))
+({{% resource_link 8d6a47ce-130b-79b8-0be0-86f4779401f5 "PDF - 6.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/pages/lecture-notes-and-videos/videos/lecture-13-modular-synthesizers)
@@ -254,7 +257,7 @@ Modular synthesizers
 Sequencers, rhythm machines, and samplers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mit21m_380f09_lec14))
+({{% resource_link 73fee996-286e-7e3b-b65e-eddc4b1d30d5 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -269,7 +272,7 @@ Sequencers, rhythm machines, and samplers
 Discussion and workshop
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mit21m_380f09_lec15))
+({{% resource_link c133135c-b312-0c63-3476-5a00bdd32033 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -284,7 +287,7 @@ Discussion and workshop
 Turntables
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380f09_lec16))
+({{% resource_link a0d30fe7-50c0-1d6e-04ef-4a58b6de80fa "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/pages/lecture-notes-and-videos/videos/lecture-16-turntables)
@@ -299,7 +302,7 @@ Turntables
 Live electronics and circuit bending
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7MB]({{< baseurl >}}/resources/mit21m_380f09_lec17))
+({{% resource_link 416bed57-749c-dcba-6865-1184d5f09270 "PDF - 1.7MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -314,7 +317,7 @@ Live electronics and circuit bending
 Discussion and workshop
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_380f09_lec18))
+({{% resource_link d2c891de-e886-b39e-20ae-435e85e52412 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -335,7 +338,7 @@ Discussion and workshop
 The history of notation and MIDI
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.5MB]({{< baseurl >}}/resources/mit21m_380f09_lec19))
+({{% resource_link 9baee3f3-c2ef-8225-203e-78a14ed6c08d "PDF - 2.5MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -350,7 +353,7 @@ The history of notation and MIDI
 The early history of music programming and digital synthesis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mit21m_380f09_lec20))
+({{% resource_link d66b6fa4-5d87-e562-b50a-311bc0a339c5 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -365,7 +368,7 @@ The early history of music programming and digital synthesis
 Synthesis with code
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380f09_lec21))
+({{% resource_link b4a7df78-290a-2fb5-0250-7f19d0b92f7f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -380,7 +383,7 @@ Synthesis with code
 Discussion and workshop
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_380f09_lec22))
+({{% resource_link 7a6568a4-16a1-ebdd-4f94-df469718e257 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -395,7 +398,7 @@ Discussion and workshop
 Intellectual property and copyright
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380f09_lec23))
+({{% resource_link b65a6d28-aff7-79ca-7f8d-28ec0112a05f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -410,7 +413,7 @@ Intellectual property and copyright
 Sonic system project presentations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380f09_lec2425))
+({{% resource_link 470e490b-a5ef-2a15-0bfc-e6ea6e2a8716 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
