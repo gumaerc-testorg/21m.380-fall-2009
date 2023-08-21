@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to the free software tools used for the course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -19,7 +20,7 @@ This course uses the following free software tools.
       
      
 *   [Martingale](http://code.google.com/p/martingale): a collection of pedagogical computer music tools in Pure Data, managed by Christopher Ariza. This site will continue to be updated with the most current versions of the .PD files used in this class.
-    *   Version used in class: November 30, 2009: ([ZIP]({{< baseurl >}}/resources/martingale091130)) (This ZIP file contains .PD and supporting files for use with PureData)
+    *   Version used in class: November 30, 2009: ({{% resource_link 00af060e-915e-ea8a-164e-0ea76fd1c697 "ZIP" %}}) (This ZIP file contains .PD and supporting files for use with PureData)
 *   [Supercollider](http://supercollider.sourceforge.net/): an environment and programming language for real time audio synthesis and algorithmic composition.
 
 [flexatone h.f.p](http://flexatone.net/). is the front of composer and sound designer Christopher Ariza. This site provides free downloads of complete, un-cut, high-quality mp3 and ogg audio files of experimental concert, computer, and electro-acoustic music, as well as information about the music, music research, algorithmic music software, and on-line tools for music analysis and creation. Music on this site is distributed for free, without cost or registration; software on this site is either free or open source.

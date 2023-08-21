@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides video lectures on music and technology.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
