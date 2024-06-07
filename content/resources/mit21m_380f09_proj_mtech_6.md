@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information about the rhythm machines, electronic
   capability and drum machine technology.
 file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/8f39d9ea79459c1e21d21e24e231f10f_MIT21M_380F09_proj_mtech_6.pdf
+file_size: 91070
 file_type: application/pdf
 learning_resource_types:
 - Projects
