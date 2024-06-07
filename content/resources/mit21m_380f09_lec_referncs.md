@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the references for this course.
 file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/de95c859cf855416c6a27e5246344320_MIT21M_380F09_lec_referncs.pdf
+file_size: 185969
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
