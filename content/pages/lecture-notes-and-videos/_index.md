@@ -229,8 +229,8 @@ Discussion and workshop
 ({{% resource_link 9311efbf-3e71-e7b9-69c7-fb92012b7ad2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Video 1]({{< baseurl >}}/pages/lecture-notes-and-videos/videos/lecture-12-discussion)  
-[Video 2]({{< baseurl >}}/pages/lecture-notes-and-videos/videos/lecture-12-workshop)
+{{% resource_link "b3f19c00-91e6-42ef-a144-c512e353a3d0" "Video 1" %}}  
+{{% resource_link "2960a0ea-68c9-1365-3fb9-6978149a2ce5" "Video 2" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,7 +245,7 @@ Modular synthesizers
 ({{% resource_link 8d6a47ce-130b-79b8-0be0-86f4779401f5 "PDF - 6.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Video]({{< baseurl >}}/pages/lecture-notes-and-videos/videos/lecture-13-modular-synthesizers)
+{{% resource_link "aa749ca4-d7d1-43c6-d4db-aed4eb9b7689" "Video" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -290,7 +290,7 @@ Turntables
 ({{% resource_link a0d30fe7-50c0-1d6e-04ef-4a58b6de80fa "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Video]({{< baseurl >}}/pages/lecture-notes-and-videos/videos/lecture-16-turntables)
+{{% resource_link "ced7b71a-8d7a-d572-cc37-ba96357bcb02" "Video" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
