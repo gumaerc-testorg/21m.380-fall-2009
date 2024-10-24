@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the iphone instrument interface,
   touch screen, microphone and magnetometer.
-file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/f1fcf525ce2c4ba6d1f2817a2e855e7c_MIT21M_380F09_proj_mtech_7.pdf
+file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/f1fcf525ce2c4ba6d1f2817a2e855e7c_MIT21M_380F09_proj_mtech_7.pdf
 file_size: 220200
 file_type: application/pdf
 learning_resource_types:
