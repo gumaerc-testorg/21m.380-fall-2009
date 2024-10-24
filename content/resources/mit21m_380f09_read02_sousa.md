@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists the transient fashion, mechanical music and  gramophone.
-file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/18ab3aba9fe7aa1502a55cd049333659_MIT21M_380F09_read02_sousa.pdf
+file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/18ab3aba9fe7aa1502a55cd049333659_MIT21M_380F09_read02_sousa.pdf
 file_size: 304551
 file_type: application/pdf
 learning_resource_types:

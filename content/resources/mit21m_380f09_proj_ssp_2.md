@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/3f02be78daa25a2a77594ac0ed14228f_MIT21M_380F09_proj_ssp_2.pdf
+file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/3f02be78daa25a2a77594ac0ed14228f_MIT21M_380F09_proj_ssp_2.pdf
 file_size: 101992
 file_type: application/pdf
 learning_resource_types:
