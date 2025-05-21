@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists the contents for the lecture files used in this course.
-file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/9e0dc6ff3c8469477bdbd6e8ce190c62_MIT21M_380F09_lec_contents.pdf
+file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/9e0dc6ff3c8469477bdbd6e8ce190c62_MIT21M_380F09_lec_contents.pdf
 file_size: 174003
 file_type: application/pdf
 learning_resource_types: []

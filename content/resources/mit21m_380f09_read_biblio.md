@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the readings for this course.
-file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/43653e4795cae75e31ca8a10bf12c7d8_MIT21M_380F09_read_biblio.pdf
+file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/43653e4795cae75e31ca8a10bf12c7d8_MIT21M_380F09_read_biblio.pdf
 file_size: 188853
 file_type: application/pdf
 learning_resource_types:
