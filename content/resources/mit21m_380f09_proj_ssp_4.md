@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the electronic drum, measuring
   of timing delta and conditioning the signal.
-file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/b18db8c9c678c6a5c5ae7b9a3fd8fc16_MIT21M_380F09_proj_ssp_4.pdf
+file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/b18db8c9c678c6a5c5ae7b9a3fd8fc16_MIT21M_380F09_proj_ssp_4.pdf
 file_size: 189261
 file_type: application/pdf
 learning_resource_types:

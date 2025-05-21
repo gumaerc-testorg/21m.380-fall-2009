@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting file  and contains .PD files used in the
   course.
-file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/00af060e915eea8a164e0ea76fd1c697_martingale091130.zip
+file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/00af060e915eea8a164e0ea76fd1c697_martingale091130.zip
 file_size: 721275
 file_type: application/zip
 learning_resource_types:

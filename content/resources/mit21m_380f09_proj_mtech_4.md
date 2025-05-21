@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the electronic?music?technology,
   rhythmicon, rhythm?instrument, technological?predecessors and national?association?of?music?merchants.
-file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/100d567e940e7e62e477c29a24defeec_MIT21M_380F09_proj_mtech_4.pdf
+file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/100d567e940e7e62e477c29a24defeec_MIT21M_380F09_proj_mtech_4.pdf
 file_size: 365571
 file_type: application/pdf
 learning_resource_types:

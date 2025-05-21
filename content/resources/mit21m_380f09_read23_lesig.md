@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the eldred transformed hawthorne,
   copyright and rhapsody in blue.
-file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/ee19eee0f5cbdb9ba673aa8d541d5ffb_MIT21M_380F09_read23_lesig.pdf
+file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/ee19eee0f5cbdb9ba673aa8d541d5ffb_MIT21M_380F09_read23_lesig.pdf
 file_size: 1099578
 file_type: application/pdf
 learning_resource_types:
