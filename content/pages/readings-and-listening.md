@@ -87,16 +87,16 @@ The history of analog audio
 
 \[Collins\]. "Tape Heads," pp. 58-63.
 
-In \[Braun\]:    
-\- Katz, Mark. "Aesthetics out of Exigency: Violin Vibrato and the Phonograph," pp. 174-185.    
-\- Magoun, Alexander B. "The Origins of the 45-RPM Record," pp. 148-157.    
+In \[Braun\]:     
+\- Katz, Mark. "Aesthetics out of Exigency: Violin Vibrato and the Phonograph," pp. 174-185.     
+\- Magoun, Alexander B. "The Origins of the 45-RPM Record," pp. 148-157.     
 \- Millard, Andre. "Tape Recording and Music Making," pp. 158-167.
 
 {{< tdclose >}}{{< tdopen >}}
 
 1860 phonautograms by Édouard-Léon Scott de Martinville, restored by FirstSounds.org. "[Au Clair de la Lune](http://www.firstsounds.org/sounds/scott.php)."
 
-Edison, Thomas A. "Around the World on the Phonograph," 1888.    
+Edison, Thomas A. "Around the World on the Phonograph," 1888.     
 Internet Archive ([MP3 - 2.12MB](http://www.archive.org/download/MIT21M.380F08/lisn03_edison.mp3)) 
 
 Paul, Les. "Lover (When You're Near Me)," 1948.
@@ -109,16 +109,16 @@ Paul, Les. "Lover (When You're Near Me)," 1948.
 Microphones and Radio
 {{< tdclose >}}{{< tdopen >}}
 
-In \[Collins\], pp. 11-26:    
-\- "Circuit Sniffing: Eavesdropping on Hidden Magnetic Music."    
-\- "In/Out: Speaker as Microphone, Microphone as Speaker."    
+In \[Collins\], pp. 11-26:     
+\- "Circuit Sniffing: Eavesdropping on Hidden Magnetic Music."     
+\- "In/Out: Speaker as Microphone, Microphone as Speaker."     
 \- "The Celebrated Jumping Speaker of Bowers County: Twitching Speakers with Batteries."
 
 Horning, S. S. "[Engineering the Performance: Recording Engineers, Tacit Knowledge and the Art of Controlling Sound](http://dx.doi.org/10.1177/0306312704047536)." *Social Studies of Science* 34, no. 5 (2004): 703-731.
 
 {{< tdclose >}}{{< tdopen >}}
 
-Gould, Glenn. "The Idea of North." from *Solitude Trilogy*, 1967. On *Glenn Gould: The Radio Artist*. CBC Recordings, 2007. \[[Excerpt](http://archives.cbc.ca/arts_entertainment/music/topics/320-1709/)\]
+Gould, Glenn. "The Idea of North." from *Solitude Trilogy*, 1967. On *Glenn Gould: The Radio Artist*. CBC Recordings, 2007. \[[Excerpt](https://youtu.be/Tsux27kMwjc?si=hOg0_2hZv2NGs4r6)\]
 
 Frank, Joe. "[Eye in the Sky](https://www.joefrank.com/shop/eye-in-the-sky/)" (1996). 
 
@@ -128,7 +128,7 @@ Zanni, Adriano. [The Sound of the Ants](https://www.youtube.com/watch?v=VamQSEW7
 
 subbasshead. "Recording Wind with a Contact Mic." April 1, 2007. YouTube. Accessed Feb. 8, 2010. [http://www.youtube.com/watch?v=gbxSrvhdDFc](http://www.youtube.com/watch?v=gbxSrvhdDFc)
 
-Contact mic on a grand piano. (Courtesy of Towson University.)    
+Contact mic on a grand piano. (Courtesy of Towson University.)     
 Internet Archive ([MP3 - 3.46MB](http://www.archive.org/download/MIT21M.380F08/lisn04_piano.mp3)) 
 
 {{< tdclose >}}{{< tdopen >}}
@@ -155,8 +155,8 @@ Lucier, Alvin. *Music for Solo Performer* (1964-65). Lovely Music LP 1014 (out o
 Digital audio
 {{< tdclose >}}{{< tdopen >}}
 
-In \[Holmes\]:    
-\- "The Microprocessor Revolution (1975-90)," pp. 271-293.    
+In \[Holmes\]:     
+\- "The Microprocessor Revolution (1975-90)," pp. 271-293.     
 \- "The Principles of Computer Music," pp. 294-318.
 
 Sterne, J. "The mp3 as Cultural Artifact." *New Media & Society* 8, no. 5 (2006): 825-842. ([PDF](http://sterneworks.org/mp3.pdf))
@@ -192,8 +192,8 @@ Parliament. "Mothership Connection." *Mothership Connection*. Polygram, 1976.
 {{< tdclose >}}{{< tdopen >}}
 Musique concrète and electronic music
 {{< tdclose >}}{{< tdopen >}}
-In \[Holmes\]:    
-\- "Early Electronic Music in Europe," pp. 41-78.    
+In \[Holmes\]:     
+\- "Early Electronic Music in Europe," pp. 41-78.     
 \- "Tape Composition and Fundamental Concepts of Electronic Music," pp. 119-140.
 {{< tdclose >}}{{< tdopen >}}
 
@@ -222,8 +222,8 @@ Schaeffer, Pierre. "Etude aux objets, 2. Objets étendus" (1959). *L'oeuvre musi
 {{< tdclose >}}{{< tdopen >}}
 Discussion and workshop
 {{< tdclose >}}{{< tdopen >}}
-In \[Holmes\]:    
-\- "Early Electronic Music in the United States," pp. 79-104.    
+In \[Holmes\]:     
+\- "Early Electronic Music in the United States," pp. 79-104.     
 \- "Classical and Experimental Music," pp. 333-375.
 {{< tdclose >}}{{< tdopen >}}
 
@@ -247,8 +247,8 @@ Reich, Steve. "Come Out" (1966). *Early Works*. Nonesuch, 1992.
 Mechanical automations and innovations
 {{< tdclose >}}{{< tdopen >}}
 
-In \[Braun\]:    
-\- Bijsterveld, K. "A Servile Imitation," pp. 121-135.    
+In \[Braun\]:     
+\- Bijsterveld, K. "A Servile Imitation," pp. 121-135.     
 \- Hocker, J. "My Soul is in the Machine - Conlon Nancarrow - Composer for Player Piano - Precursor of Computer Music," pp. 84-96.
 
 Brown, B. "The Noise Instruments of Luigi Russolo." *Perspectives of New Music* 20, nos. 1-2 (1981): 31-48.
@@ -297,8 +297,8 @@ Discussion and workshop
 
 Bimber, B. "Karl Marx and the Three Faces of Technological Determinism." *Social Studies of Science* 20, no. 2 (1990): 333-351. ([PDF](http://web.mit.edu/sts/pubs/pdfs/MIT_STS_WorkingPaper_11_Bimber_2.pdf))
 
-In \[Collins\]:    
-\- "The World's Simplest Circuit: Six Oscillators on a Chip, Guranteed to Work (pp. 129-145)    
+In \[Collins\]:     
+\- "The World's Simplest Circuit: Six Oscillators on a Chip, Guranteed to Work (pp. 129-145)     
 "Getting Messy: Oscillators that Modulate Each Other…" pp. 152-167.
 
 Pinch, T. J., and W. E. Bijker. "[The Social Construction of Facts and Artefacts: Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other](http://dx.doi.org/10.1177/030631284014003004)." *Social Studies of Science* 14, no. 3 (1984): 399-441.
@@ -313,8 +313,8 @@ Pinch, T. J., and W. E. Bijker. "[The Social Construction of Facts and Artefacts
 Modular synthesizers
 {{< tdclose >}}{{< tdopen >}}
 
-In \[Holmes\]:    
-\- "Early Synthesizers and Experimenters," pp. 141-172.    
+In \[Holmes\]:     
+\- "Early Synthesizers and Experimenters," pp. 141-172.     
 \-"The Voltage-Controlled Synthesizer," pp. 207-226.
 
 Pinch, T., and F. Trocco. "The Social Construction of the Early Electronic Music Synthesizer." \[Braun\], pp. 67-83.
@@ -329,7 +329,7 @@ Babbitt, Milton. "[Philomel](http://www.schirmer.com/default.aspx?TabId=2420&Sta
 
 Carlos, Wendy. "Cantata #147, BWV 147," "The Well-Tempered Clavier, Book 1 - Prelude & Fugue #2 In C Minor, BWV 847," and interview "Initial Experiments." *Switched on Bach*. East Side Digital, 2001 (reissue of 1969 original).
 
-Koenig, Gottfried Michele. "Funktion Grau" (1969). (Courtesy of Gottfried Michele Koenig. Used with permission.)    
+Koenig, Gottfried Michele. "Funktion Grau" (1969). (Courtesy of Gottfried Michele Koenig. Used with permission.)     
 Internet Archive ([MP3 - 23MB](http://www.archive.org/download/MIT21M.380F08/lisn13_koenig.mp3)) 
 
 Subotnick, Morton. *Silver Apples of the Moon*, 1967. On \[OHM\].
@@ -363,11 +363,11 @@ Public Enemy, "Fight the Power." *Fear of a Black Planet*. Def Jam, 1990.
 {{< tdclose >}}{{< tdopen >}}
 Discussion and workshop
 {{< tdclose >}}{{< tdopen >}}
-In \[Collins\]:    
-\- pp. 197-210.    
+In \[Collins\]:     
+\- pp. 197-210.     
 \- "In the Loop: Creativity and Constraint in 8-bit Video Game Audio," pp. 209-227
 {{< tdclose >}}{{< tdopen >}}
-Vaggione, Horacio. "24 Variations, 2002." *ICMC 2002 - Göteborg Sweden*. LJ Records, 2002. (Courtesy of Horacio Vaggione. Used with permission.)    
+Vaggione, Horacio. "24 Variations, 2002." *ICMC 2002 - Göteborg Sweden*. LJ Records, 2002. (Courtesy of Horacio Vaggione. Used with permission.)     
 Internet Archive ([MP3](http://www.archive.org/download/MIT21M.380F08/lisn15_vaggione.mp3)) 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -431,7 +431,7 @@ Discussion and workshop
  
 {{< tdclose >}}{{< tdopen >}}
 
-Musica Elettronica Viva (MEV).    
+Musica Elettronica Viva (MEV).     
 "Spacecraft" (1967). *MEV 40 (1967-2007)*. New World Records, 2008.
 
 AMM. "The Great Hall 1" (1982). *Laminal*. Matchless, 1997.
@@ -482,10 +482,10 @@ Roads, C. "Interview with Max Mathews." *Computer Music Journal* 4, no. 4 (1980)
 
 Reconstructions of CSIRAC music (Courtesy of Paul Doornbusch. Used with permission.): 
 
-(a) "Colonel Bogey"    
+(a) "Colonel Bogey"     
 Internet Archive ([MP3](http://www.archive.org/download/MIT21M.380F08/lisn20_csirac1.mp3)) 
 
-(b) "In Cellar Cool"    
+(b) "In Cellar Cool"     
 Internet Archive [(MP3](http://www.archive.org/download/MIT21M.380F08/lisn20_csirac2.mp3)) 
 
 Christopher Strachey on the Ferranti Mark I Computer. "God Save the King." On Fildes, J. "['Oldest' Computer Music Unveiled](http://news.bbc.co.uk/2/hi/7458479.stm)." BBC News, 17 June 2008.
@@ -520,7 +520,7 @@ Synthesis with code
 
 Wishart, Trevor. *Red Bird*, 1977. \[[Listen or download](http://www.ubu.com/sound/wishart.html) at UbuWeb\]
 
-Roads, Curtis. "Now." *Point Line Cloud*. Asphodel Ltd., 2004. (Courtesy of Curtis Roads. Used with permission.)    
+Roads, Curtis. "Now." *Point Line Cloud*. Asphodel Ltd., 2004. (Courtesy of Curtis Roads. Used with permission.)     
 Internet Archive ([MP3 - 14MB](http://www.archive.org/download/MIT21M.380F08/lisn21_roads.mp3)) 
 
 {{< tdclose >}}{{< tdopen >}}
@@ -532,7 +532,7 @@ Discussion and workshop
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-Ariza, Christopher. "onomatopoeticized" (2004). *Music from SEAMUS, Vol. 15.*    
+Ariza, Christopher. "onomatopoeticized" (2004). *Music from SEAMUS, Vol. 15.*     
 Internet Archive ([MP3 - 20MB](http://www.archive.org/download/MIT21M.380F08/lisn22_ariza.mp3)) 
 {{< tdclose >}}{{< tdopen >}}
  
