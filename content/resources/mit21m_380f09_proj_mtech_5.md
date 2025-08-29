@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource lists the repetition and mutation, composition and repetition
   and infinite sound.
-file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/6bcbefdc51828995870293cb4d624a1c_MIT21M_380F09_proj_mtech_5.pdf
+file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/6bcbefdc51828995870293cb4d624a1c_MIT21M_380F09_proj_mtech_5.pdf
 file_size: 218019
 file_type: application/pdf
 learning_resource_types:
