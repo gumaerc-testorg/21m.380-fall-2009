@@ -45,11 +45,12 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Music",
+    "Music Audio",
     "Lecture Notes",
     "Projects with Examples"
   ],
   "site_uid": "dac0df6a-24f9-4380-a45a-8c82520f5316",
   "site_short_id": "21m.380-fall-2009",
+  "site_url_path": "courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009",
   "title": "Course Metadata"
 }

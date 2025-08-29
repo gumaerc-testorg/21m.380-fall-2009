@@ -2,7 +2,7 @@
 content_type: resource
 description: This pojects lists the keyboard instrument, keyboard synthesizer, analog
   tape and pure data patch.
-file: /courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/da1b62a0df334df3533228ce04194967_MIT21M_380F09_proj_ssp_3.pdf
+file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009/da1b62a0df334df3533228ce04194967_MIT21M_380F09_proj_ssp_3.pdf
 file_size: 1444102
 file_type: application/pdf
 learning_resource_types:
