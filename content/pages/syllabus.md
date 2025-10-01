@@ -46,7 +46,7 @@ Regular access to the following complete texts is required.
 
 2\. Collins, N. _Handmade Electronic Music: The Art of Hardware Hacking_. 2nd ed. New York, NY: Routledge/Taylor & Francis, 2009. ISBN: 9780415998734.
 
-3\. Holmes, T. _Electronic and Experimental Music_. 3rd ed. New York, NY: Routledge, 2008. ISBN: 9780415957823. \[Preview in [Google Books](http://books.google.com/books?id=Q0uTAgAAQBAJ&pg=PAfrontcover)\]
+3\. Holmes, T. _Electronic and Experimental Music_. 3rd ed. New York, NY: Routledge, 2008. ISBN: 9780415957823. \[Preview in {{% resource_link "25601731-9a5c-4088-9a4a-dc061fed9c90" "Google Books" %}}\]
 
 Additional required readings in other books, articles, and chapters are also assigned during the term.
 
@@ -71,9 +71,9 @@ Assignments, projects, and demonstrations may be facilitated by the use and inst
 The following texts and Web sites may provide useful references for terms, people, and concepts presented in this course.
 
 1.  Oxford Music Online/Grove Music Online
-2.  [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262680820) Roads, C. [_The Computer Music Tutorial_](https://mitpress.mit.edu/9780262680820). Cambridge, MA: MIT Press, 1996. ISBN: 9780262680820.
-3.  Crab, S. "[120 Years Of Electronic Music (PDF)](http://www.mathieubosi.com/zikprojects/120YearsOfElectronicMusic.pdf)."
-4.  Stolet, J., et al. "[Electronic Music Interactive v2](https://pages.uoregon.edu/emi/17.php)." University of Oregon, 2009.
+2.  {{% resource_link "6c85fe53-056f-45d5-9415-6aa05aa7499e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Roads, C. {{% resource_link "6c85fe53-056f-45d5-9415-6aa05aa7499e" "_The Computer Music Tutorial_" %}}. Cambridge, MA: MIT Press, 1996. ISBN: 9780262680820.
+3.  Crab, S. "{{% resource_link "f75c2694-89ac-4ab2-9fad-f7ed2f8969a3" "120 Years Of Electronic Music (PDF)" %}}."
+4.  Stolet, J., et al. "{{% resource_link "3f07e44e-e663-43cc-b636-45f8743862de" "Electronic Music Interactive v2" %}}." University of Oregon, 2009.
 
 Coursework
 ----------
@@ -114,7 +114,7 @@ Students must bring to class a working prototype or minimal implementation of th
 
 All written assignments, unless otherwise indicated, must be submitted digitally via email attachment. Upon receipt by the instructor students will receive an email confirmation within twelve hours. If a student does not receive an email confirmation, it is the student's responsibility to contact the instructor and/or re-send the assignment.
 
-Digital media assignments, when required, must be submitted (if smaller than 5 MB) via email attachment or (if larger than 5 MB) via Pando (with the free [Basic Version](http://pando.com/)), YouSendIt (with a free Lite [account](https://www.hightail.com/)), or a similar free digital delivery service. Upon receipt by the instructor students will receive an email confirmation within twelve hours. If a student does not receive email confirmation, it is the student's responsibility to contact the instructor and/or re-send the assignment. All digital media assignments must be submitted as MIDI (.mid), AIFF (.aif), or WAVE (.wav) files.
+Digital media assignments, when required, must be submitted (if smaller than 5 MB) via email attachment or (if larger than 5 MB) via Pando (with the free {{% resource_link "2d918e8a-f248-4662-bfb0-33bf01b69025" "Basic Version" %}}), YouSendIt (with a free Lite {{% resource_link "e47bb829-7e10-4cae-9e0e-56c3c8ce51cf" "account" %}}), or a similar free digital delivery service. Upon receipt by the instructor students will receive an email confirmation within twelve hours. If a student does not receive email confirmation, it is the student's responsibility to contact the instructor and/or re-send the assignment. All digital media assignments must be submitted as MIDI (.mid), AIFF (.aif), or WAVE (.wav) files.
 
 Late assignments will receive a grade reduction. Students are encouraged to submit all assignments, even if late. Assignments turned in within seven days after the due date will be deducted 20 percent of the total points possible. Assignments will not be accepted one week after the due date or after the last scheduled course meeting.
 
@@ -218,7 +218,7 @@ Participation
 
 Students are responsible for tracking their progress and cumulative grade throughout this course. Students may request via email information about grades at any time.
 
-Grading policies, the use of grade modifiers, and additional grades will be given in accordance with policies set forth in the MIT Course Bulletin, [Academic Procedures and Institute Regulations](http://catalog.mit.edu/mit/procedures/).
+Grading policies, the use of grade modifiers, and additional grades will be given in accordance with policies set forth in the MIT Course Bulletin, {{% resource_link "cebf510a-0bfe-4411-ad0a-023aef42dab6" "Academic Procedures and Institute Regulations" %}}.
 
 Grades are given on written assignments based on the following criteria. An _F_ is given for incorrect, incomplete, and unsatisfactory work that demonstrates neither effort nor critical thought. A _D_ is given for incomplete and unsatisfactory work that demonstrates some effort and minimal critical thought. A _C_ is given for complete and satisfactory work with little or no creative or critical thought. A _B_ is given for thorough, well-written, and well-presented work with some creative and critical thought. An _A_ is given for substantial and creative original work and critical insight, executed without flaw.
 
@@ -231,7 +231,7 @@ Additional Policies
 
 ### Academic Integrity, Intellectual Property, and Plagiarism
 
-Students are encouraged to discuss course content with other students taking the course. Each student must, however, produce their own original work. Students are expected to observe the highest levels of academic integrity. All cases of academic dishonesty will be taken very seriously. For more information on academic integrity, citing sources, and plagiarism see [Academic Integrity at MIT](http://web.mit.edu/academicintegrity).
+Students are encouraged to discuss course content with other students taking the course. Each student must, however, produce their own original work. Students are expected to observe the highest levels of academic integrity. All cases of academic dishonesty will be taken very seriously. For more information on academic integrity, citing sources, and plagiarism see {{% resource_link "30f8a8e9-ae2a-4600-8ea4-50464576bf1f" "Academic Integrity at MIT" %}}.
 
 Assignments may involve using digital media or intellectual property produced by others. Materials used in such situations, and provided by the instructor or obtained from the internet, must be either in the public domain or licensed specifically for shared use. Students are expected to follow all relevant copyright and intellectual property laws.
 
@@ -239,7 +239,7 @@ Plagiarism includes using the words, ideas, or creative works of another writer 
 
 In the case of unattributed and/or suspicious student work, software may be used to search the internet, literature archives, and current and past assignments for possibly-plagiarized material.
 
-Suspected cases of academic misconduct will be handled according to section 10.2 of [MIT Policies and Procedures](http://web.mit.edu/policies/10/10.2.html).
+Suspected cases of academic misconduct will be handled according to section 10.2 of {{% resource_link "80adda6f-71b3-4df8-bccd-f3c1f7743657" "MIT Policies and Procedures" %}}.
 
 Unauthorized use and distribution of student-recorded or transcribed course lectures or materials, without written permission of the instructor, is prohibited.
 
