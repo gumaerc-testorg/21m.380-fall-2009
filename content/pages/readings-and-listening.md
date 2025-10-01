@@ -19,7 +19,7 @@ These citation abbreviations are used in the table.
 
 - \[Braun\] = Braun, H. *Music and Technology in the Twentieth Century*. Baltimore, MD: The Johns Hopkins University Press, 2002. ISBN: 9780801868856.
 - \[Collins\] = Collins, N. *Handmade Electronic Music: The Art of Hardware Hacking*. 2nd ed. New York, NY: Routledge/Taylor & Francis, 2009. ISBN: 9780415998734.
-- \[Holmes\] = Holmes, T. *Electronic and Experimental Music*. 3rd ed. New York, NY: Routledge, 2008. ISBN: 9780415957823. \[Preview in [Google Books](http://books.google.com/books?id=Q0uTAgAAQBAJ&pg=PAfrontcover)\]
+- \[Holmes\] = Holmes, T. *Electronic and Experimental Music*. 3rd ed. New York, NY: Routledge, 2008. ISBN: 9780415957823. \[Preview in {{% resource_link "25601731-9a5c-4088-9a4a-dc061fed9c90" "Google Books" %}}\]
 
 ### Recordings
 
@@ -94,10 +94,10 @@ In \[Braun\]:   
 
 {{< tdclose >}}{{< tdopen >}}
 
-1860 phonautograms by Édouard-Léon Scott de Martinville, restored by FirstSounds.org. "[Au Clair de la Lune](http://www.firstsounds.org/sounds/scott.php)."
+1860 phonautograms by Édouard-Léon Scott de Martinville, restored by FirstSounds.org. "{{% resource_link "401b5924-9d85-4f1d-84d5-95b207f990b3" "Au Clair de la Lune" %}}."
 
 Edison, Thomas A. "Around the World on the Phonograph," 1888.     
-Internet Archive ([MP3 - 2.12MB](http://www.archive.org/download/MIT21M.380F08/lisn03_edison.mp3)) 
+Internet Archive ({{% resource_link "8bed1193-36dd-4d9d-ac33-f22b28ca81c9" "MP3 - 2.12MB" %}}) 
 
 Paul, Les. "Lover (When You're Near Me)," 1948.
 
@@ -114,22 +114,22 @@ In \[Collins\], pp. 11-26:   
 \- "In/Out: Speaker as Microphone, Microphone as Speaker."     
 \- "The Celebrated Jumping Speaker of Bowers County: Twitching Speakers with Batteries."
 
-Horning, S. S. "[Engineering the Performance: Recording Engineers, Tacit Knowledge and the Art of Controlling Sound](http://dx.doi.org/10.1177/0306312704047536)." *Social Studies of Science* 34, no. 5 (2004): 703-731.
+Horning, S. S. "{{% resource_link "044172d4-4627-4b8e-a30f-18084448fedf" "Engineering the Performance: Recording Engineers, Tacit Knowledge and the Art of Controlling Sound" %}}." *Social Studies of Science* 34, no. 5 (2004): 703-731.
 
 {{< tdclose >}}{{< tdopen >}}
 
-Gould, Glenn. "The Idea of North." from *Solitude Trilogy*, 1967. On *Glenn Gould: The Radio Artist*. CBC Recordings, 2007. \[[Excerpt](https://youtu.be/Tsux27kMwjc?si=hOg0_2hZv2NGs4r6)\]
+Gould, Glenn. "The Idea of North." from *Solitude Trilogy*, 1967. On *Glenn Gould: The Radio Artist*. CBC Recordings, 2007. \[{{% resource_link "f8f6a442-e827-4f36-9493-8a0ddd100470" "Excerpt" %}}\]
 
-Frank, Joe. "[Eye in the Sky](https://www.joefrank.com/shop/eye-in-the-sky/)" (1996). 
+Frank, Joe. "{{% resource_link "4660a903-4187-4b51-b853-c6010f768b05" "Eye in the Sky" %}}" (1996). 
 
-Vallee, Rudy. "[Brother Can You Spare a Dime?](https://www.npr.org/sections/sundaysoapbox/2008/11/brother_can_you_spare_a_dime.html)" Posted by NPR's “What Makes It Great” program.
+Vallee, Rudy. "{{% resource_link "a4146f3a-5b9d-4281-9f54-4db6f2109313" "Brother Can You Spare a Dime?" %}}" Posted by NPR's “What Makes It Great” program.
 
-Zanni, Adriano. [The Sound of the Ants](https://www.youtube.com/watch?v=VamQSEW7KAw).
+Zanni, Adriano. {{% resource_link "0799ebcc-9ef1-4b93-87ca-914321c01f6f" "The Sound of the Ants" %}}.
 
-subbasshead. "Recording Wind with a Contact Mic." April 1, 2007. YouTube. Accessed Feb. 8, 2010. [http://www.youtube.com/watch?v=gbxSrvhdDFc](http://www.youtube.com/watch?v=gbxSrvhdDFc)
+subbasshead. "Recording Wind with a Contact Mic." April 1, 2007. YouTube. Accessed Feb. 8, 2010. {{% resource_link "25393ec9-bfb7-401a-802e-826a61892c9a" "http://www.youtube.com/watch?v=gbxSrvhdDFc" %}}
 
 Contact mic on a grand piano. (Courtesy of Towson University.)     
-Internet Archive ([MP3 - 3.46MB](http://www.archive.org/download/MIT21M.380F08/lisn04_piano.mp3)) 
+Internet Archive ({{% resource_link "4b44237e-5080-4caf-b912-86df45e7efd5" "MP3 - 3.46MB" %}}) 
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -141,9 +141,9 @@ Discussion and workshop
 
 \[Collins\], pp. 31-57, 64-70.
 
-Fouché, R. "[Say It Loud, I'm Black and I'm Proud: African Americans, American Artifactual Culture, and Black Vernacular Technological Creativity](http://muse.jhu.edu/article/203948)." *American Quarterly* 58, no. 3 (2006): 639-661.
+Fouché, R. "{{% resource_link "52aa5fbd-8ea3-4f84-95b5-fa418c948b48" "Say It Loud, I'm Black and I'm Proud: African Americans, American Artifactual Culture, and Black Vernacular Technological Creativity" %}}." *American Quarterly* 58, no. 3 (2006): 639-661.
 
-Pinch, T. J. and W. E. Bijker. "[The Social Construction of Facts and Artefacts: Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other](http://dx.doi.org/10.1177/030631284014003004)." *Social Studies of Science* 14, no. 3 (1984): 399-441.
+Pinch, T. J. and W. E. Bijker. "{{% resource_link "03dafe09-2c61-40cd-a294-de238965dd82" "The Social Construction of Facts and Artefacts: Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other" %}}." *Social Studies of Science* 14, no. 3 (1984): 399-441.
 
 {{< tdclose >}}{{< tdopen >}}
 Lucier, Alvin. *Music for Solo Performer* (1964-65). Lovely Music LP 1014 (out of print).
@@ -159,7 +159,7 @@ In \[Holmes\]:   
 \- "The Microprocessor Revolution (1975-90)," pp. 271-293.     
 \- "The Principles of Computer Music," pp. 294-318.
 
-Sterne, J. "The mp3 as Cultural Artifact." *New Media & Society* 8, no. 5 (2006): 825-842. ([PDF](http://sterneworks.org/mp3.pdf))
+Sterne, J. "The mp3 as Cultural Artifact." *New Media & Society* 8, no. 5 (2006): 825-842. ({{% resource_link "86860abb-5427-40ac-b9aa-f1e7ca95fa57" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -181,7 +181,7 @@ Nielsen, S. H., and T. Lund. "Overload in Signal Conversion." *AES 23rd Internat
 
 {{< tdclose >}}{{< tdopen >}}
 
-The Southern Four. "[Swing Low, Sweet Chariot](http://www.archive.org/details/EDIS-SRP-0196-01)." Recorded 1921.
+The Southern Four. "{{% resource_link "c3e09de9-650f-4b43-8ebd-712519076af3" "Swing Low, Sweet Chariot" %}}." Recorded 1921.
 
 Parliament. "Mothership Connection." *Mothership Connection*. Polygram, 1976.
 
@@ -201,11 +201,11 @@ Ruttman, Walter. "Wochende (Weekend)" (1930). On *An Anthology of Noise & Electr
 
 Schaeffer, Pierre. "Quatre études de bruits, 3. Etude aux chemins de fer" (1948). On \[OHM\].
 
-Varèse, Edgard. "[Poème électronique](http://www.medienkunstnetz.de/works/poeme-electronique/audio/1/)." (1958). On *An Anthology of Noise & Electronic Music, Vol. 1*. Sub Rosa, 2004.
+Varèse, Edgard. "{{% resource_link "eb614351-45a9-4d47-ba7f-36bab16cb7c9" "Poème électronique" %}}." (1958). On *An Anthology of Noise & Electronic Music, Vol. 1*. Sub Rosa, 2004.
 
 Le Caine, Hugh. "Dripsody" (1955). On \[OHM\].
 
-Stockhausen, Karlheinz. "[Gesang der Jünglinge](http://www.mediaartnet.org/works/gesang-der-juenglinge/audio/1/)" (1955-56). *Elektronische Musik 1952-1960*. Stockhausen Edition no. 3.
+Stockhausen, Karlheinz. "{{% resource_link "9b8bc8aa-4642-4be2-b8fb-386c389bf625" "Gesang der Jünglinge" %}}" (1955-56). *Elektronische Musik 1952-1960*. Stockhausen Edition no. 3.
 
 ### Optional
 
@@ -231,7 +231,7 @@ Cage, John. "Williams Mix" (1952). On \[OHM\].
 
 Reich, Steve. "It's Gonna Rain" (1965) and "Piano Phase" (1967). *Early Works*. Nonesuch, 1992.
 
-Lucier, Alvin. "I Am Sitting in a Room" (1970). \[[Listen or download](http://www.ubu.com/sound/lucier.html) at UbuWeb\]
+Lucier, Alvin. "I Am Sitting in a Room" (1970). \[{{% resource_link "ef74472c-14f4-4f96-98ba-c716ef683fdb" "Listen or download" %}} at UbuWeb\]
 
 ### Optional
 
@@ -255,7 +255,7 @@ Brown, B. "The Noise Instruments of Luigi Russolo." *Perspectives of New Music* 
 
 {{< tdclose >}}{{< tdopen >}}
 
-Russolo, Luigi. "*Gorgogliatore* (gurgler)," "*Crepitatore* (crackler), and "Risveglio di una Citta." \[[Listen](http://www.ubu.com/sound/russolo_l.html) to these and other Russolo tracks at UbuWeb\]
+Russolo, Luigi. "*Gorgogliatore* (gurgler)," "*Crepitatore* (crackler), and "Risveglio di una Citta." \[{{% resource_link "334bcd7b-e166-4aff-80fd-c1bf5d08bdc8" "Listen" %}} to these and other Russolo tracks at UbuWeb\]
 
 Nancarrow, Conlon. *Studies for Player Piano*, no. 1 (1951) and no. 36 (1977). On *Sound Forms for Piano*. New World Records, 1995.
 
@@ -281,7 +281,7 @@ Clara Rockmore theremin video. On \[OHM\].
 
 Messiaen, Olivier. "Oraison" (1937). On \[OHM\].
 
-Cage, John. "[Imaginary Landscape No. 1](http://www.medienkunstnetz.de/works/imaginary-landscape-1/audio/1/)." (1939).
+Cage, John. "{{% resource_link "371bd2ea-b770-4b3b-ac7b-e397d0606c48" "Imaginary Landscape No. 1" %}}." (1939).
 
 ———. "Cartridge Music" (1960). *Music for Merce Cunningham*. Mode, 1995.
 
@@ -295,13 +295,13 @@ Hendrix, Jimi. "Machine Gun." *Band of Gypsys*. Capitol, 1970.
 Discussion and workshop
 {{< tdclose >}}{{< tdopen >}}
 
-Bimber, B. "Karl Marx and the Three Faces of Technological Determinism." *Social Studies of Science* 20, no. 2 (1990): 333-351. ([PDF](http://web.mit.edu/sts/pubs/pdfs/MIT_STS_WorkingPaper_11_Bimber_2.pdf))
+Bimber, B. "Karl Marx and the Three Faces of Technological Determinism." *Social Studies of Science* 20, no. 2 (1990): 333-351. ({{% resource_link "8e0dad47-2663-47c8-861d-c5f5801459b1" "PDF" %}})
 
 In \[Collins\]:     
 \- "The World's Simplest Circuit: Six Oscillators on a Chip, Guranteed to Work (pp. 129-145)     
 "Getting Messy: Oscillators that Modulate Each Other…" pp. 152-167.
 
-Pinch, T. J., and W. E. Bijker. "[The Social Construction of Facts and Artefacts: Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other](http://dx.doi.org/10.1177/030631284014003004)." *Social Studies of Science* 14, no. 3 (1984): 399-441.
+Pinch, T. J., and W. E. Bijker. "{{% resource_link "03dafe09-2c61-40cd-a294-de238965dd82" "The Social Construction of Facts and Artefacts: Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other" %}}." *Social Studies of Science* 14, no. 3 (1984): 399-441.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -321,20 +321,20 @@ Pinch, T., and F. Trocco. "The Social Construction of the Early Electronic Music
 
 {{< tdclose >}}{{< tdopen >}}
 
-[*The Sounds and Music of the RCA Electronic Music Synthesizer*](http://www.uv201.com/Misc_Pages/Misc_Sounds/RCA%20Synthesizer%20Side%203.mp3), 1955.
+{{% resource_link "e9a09047-4efa-4fa6-a63b-da60987b1f67" "*The Sounds and Music of the RCA Electronic Music Synthesizer*" %}}, 1955.
 
-- Played in class: "Side 3: The Synthesis of Music-Synthesis by Parts (Part 2)" ([MP3](http://www.uv201.com/Misc_Pages/Misc_Sounds/RCA%20Synthesizer%20Side%203.mp3))
+- Played in class: "Side 3: The Synthesis of Music-Synthesis by Parts (Part 2)" ({{% resource_link "e9a09047-4efa-4fa6-a63b-da60987b1f67" "MP3" %}})
 
-Babbitt, Milton. "[Philomel](http://www.schirmer.com/default.aspx?TabId=2420&State_2874=2&workId_2874=25741)." 1964. On \[OHM\].
+Babbitt, Milton. "{{% resource_link "3b1f24c5-402d-43a3-957d-a82caf5e24ca" "Philomel" %}}." 1964. On \[OHM\].
 
 Carlos, Wendy. "Cantata #147, BWV 147," "The Well-Tempered Clavier, Book 1 - Prelude & Fugue #2 In C Minor, BWV 847," and interview "Initial Experiments." *Switched on Bach*. East Side Digital, 2001 (reissue of 1969 original).
 
 Koenig, Gottfried Michele. "Funktion Grau" (1969). (Courtesy of Gottfried Michele Koenig. Used with permission.)     
-Internet Archive ([MP3 - 23MB](http://www.archive.org/download/MIT21M.380F08/lisn13_koenig.mp3)) 
+Internet Archive ({{% resource_link "ee153a6a-e58a-4986-80e9-19d92a805fcb" "MP3 - 23MB" %}}) 
 
 Subotnick, Morton. *Silver Apples of the Moon*, 1967. On \[OHM\].
 
-Oliveros, Pauline. "Alien Bog," 1967. Polydor, 1998 reissue. \[[Listen to this](https://oliveros.bandcamp.com/track/alien-bog), on bandcamp\]
+Oliveros, Pauline. "Alien Bog," 1967. Polydor, 1998 reissue. \[{{% resource_link "8e7ced08-da29-4ff0-950d-72f0ee3259a4" "Listen to this" %}}, on bandcamp\]
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -344,7 +344,7 @@ Oliveros, Pauline. "Alien Bog," 1967. Polydor, 1998 reissue. \[[Listen to this](
 Sequencers, rhythm machines, and samplers
 {{< tdclose >}}{{< tdopen >}}
 
-Oswald, John. "[Plunderphonics, or Audio Piracy as a Compositional Prerogative](http://www.plunderphonics.com/xhtml/xplunder.html)." *Wired Society Electro-Acoustic Conference*, 1985.
+Oswald, John. "{{% resource_link "43ebcf7c-56a3-4f6d-8220-b29c450aa2e7" "Plunderphonics, or Audio Piracy as a Compositional Prerogative" %}}." *Wired Society Electro-Acoustic Conference*, 1985.
 
 Walser, R. "Rhythm, Rhyme, and Rhetoric in the Music of Public Enemy." *Ethnomusicology* 39, no. 2 (1995): 193-217.
 
@@ -368,7 +368,7 @@ In \[Collins\]:   
 \- "In the Loop: Creativity and Constraint in 8-bit Video Game Audio," pp. 209-227
 {{< tdclose >}}{{< tdopen >}}
 Vaggione, Horacio. "24 Variations, 2002." *ICMC 2002 - Göteborg Sweden*. LJ Records, 2002. (Courtesy of Horacio Vaggione. Used with permission.)     
-Internet Archive ([MP3](http://www.archive.org/download/MIT21M.380F08/lisn15_vaggione.mp3)) 
+Internet Archive ({{% resource_link "827c5af5-ca61-423a-9e16-4f2e16dc627f" "MP3" %}}) 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -403,23 +403,23 @@ Live electronics and circuit bending
 
 \[Collins\], pp. 80-112
 
-Ghazala, Q. R. "[The Folk Music of Chance Electronics: Circuit-Bending the Modern Coconut](http://www.anti-theory.com/texts/lmj/)." *Leonardo Music Journal* 14, no. 1 (2004): 97-104.
+Ghazala, Q. R. "{{% resource_link "b7288b0c-d406-42a3-bebd-fd806dcd4d09" "The Folk Music of Chance Electronics: Circuit-Bending the Modern Coconut" %}}." *Leonardo Music Journal* 14, no. 1 (2004): 97-104.
 
 \[Holmes\], "Live Electronic Music and Ambient Music," pp. 376-406.
 
 {{< tdclose >}}{{< tdopen >}}
 
-Mumma, Gordon. Hornpipe, 1967. \[[Listen or download](http://www.ubu.com/sound/sau.html) at UbuWeb\]
+Mumma, Gordon. Hornpipe, 1967. \[{{% resource_link "723ff80f-8e5b-4ca4-8c01-ec9b30cb8642" "Listen or download" %}} at UbuWeb\]
 
-Ashley, Robert. "The Wolfman" (1964). \[[Listen or download](http://www.ubu.com/sound/ashley.html) at UbuWeb\]
+Ashley, Robert. "The Wolfman" (1964). \[{{% resource_link "5342c952-9c97-475d-840b-cfff8c8e9faa" "Listen or download" %}} at UbuWeb\]
 
-———. "Automatic Writing." [*Automatic Writing*](http://www.lovely.com/titles/cd1002.html). Lovely Music, 1979.
+———. "Automatic Writing." {{% resource_link "bfeb655a-5aa6-4cbe-a575-3ff5d8820686" "*Automatic Writing*" %}}. Lovely Music, 1979.
 
 Tudor, David. "Rainforest IV" (1973). *Tudor: Rainforest - Versions I (1968) & IV (1973)*. Mode, 1998.
 
 ———. "Pulsers" (1976), with Takehisa Kosugi. *Three works for live electronics*. Lovely Music, 1996.
 
-———. "Toneburst" (1975). CD accompanying [*Leonardo Music Journal*, v. 14](http://www.leonardo.info/isast/journal/toclmj14.html). 2004.
+———. "Toneburst" (1975). CD accompanying {{% resource_link "775be315-3bc6-4a9b-b74f-ff93deac2b82" "*Leonardo Music Journal*, v. 14" %}}. 2004.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -454,7 +454,7 @@ Loy, D. G. "Musicians Make a Standard: The MIDI Phenomenon." *Computer Music Jou
 
 Stravinsky, Igor. "Bransle Gay." From *Agon*. Orchestra of St. Luke's, Robert Craft. *On Stravinsky: Three Greek Ballets (Apollo, Agon, Orpheus)*. Naxos, 2005.
 
-[*Kyrie*](http://en.wikipedia.org/wiki/File:Schola_Gregoriana-Kyrie_eleison.ogg) (excerpt)
+{{% resource_link "de4aa82d-5bdd-467b-8415-a02da6df2def" "*Kyrie*" %}} (excerpt)
 
  Corelli, Arcangelo. "Trio Sonata, Op. 3, No. 2." On *Norton Recorded Anthology of Western Music. Vol. 1, Ancient to Baroque*. 5th ed. New York, NY: W.W. Norton and Sons, 2006. 9780393106084.
 
@@ -483,12 +483,12 @@ Roads, C. "Interview with Max Mathews." *Computer Music Journal* 4, no. 4 (1980)
 Reconstructions of CSIRAC music (Courtesy of Paul Doornbusch. Used with permission.): 
 
 (a) "Colonel Bogey"     
-Internet Archive ([MP3](http://www.archive.org/download/MIT21M.380F08/lisn20_csirac1.mp3)) 
+Internet Archive ({{% resource_link "70116840-5c21-49ed-a410-3406c49b3227" "MP3" %}}) 
 
 (b) "In Cellar Cool"     
-Internet Archive [(MP3](http://www.archive.org/download/MIT21M.380F08/lisn20_csirac2.mp3)) 
+Internet Archive {{% resource_link "807be10f-64c5-421c-b268-9db7c1c30b00" "(MP3" %}}) 
 
-Christopher Strachey on the Ferranti Mark I Computer. "God Save the King." On Fildes, J. "['Oldest' Computer Music Unveiled](http://news.bbc.co.uk/2/hi/7458479.stm)." BBC News, 17 June 2008.
+Christopher Strachey on the Ferranti Mark I Computer. "God Save the King." On Fildes, J. "{{% resource_link "46e50e80-dac7-4f8b-9322-0bd152e902ca" "'Oldest' Computer Music Unveiled" %}}." BBC News, 17 June 2008.
 
 David Caplin and Dietrich Prinz on the Shell Ferranti Mark 1 (MIRACLE). Mozart's "Dice Game."
 
@@ -498,13 +498,13 @@ Tenney, James. "Analog #1 (Noise Study)." (1961) *Selected Works: 1961-1969*. Ne
 
 Risset, Jean-Claude. "Mutations" (1969). Excerpt on \[OHM\].
 
-- Alternate source: fallonmccoy. "Jean-Claude Risset: 'Mutations'." YouTube. June 29, 2008. [http://www.youtube.com/watch?v=jWEf97Z7cVI](http://www.youtube.com/watch?v=jWEf97Z7cVI). Accessed Feb. 3, 2010.
+- Alternate source: fallonmccoy. "Jean-Claude Risset: 'Mutations'." YouTube. June 29, 2008. {{% resource_link "afcf8d69-3b71-45b3-9a07-fb8285acb12e" "http://www.youtube.com/watch?v=jWEf97Z7cVI" %}}. Accessed Feb. 3, 2010.
 
-Spiegel, Laurie. "[Appalachian Grove I](https://archive.org/details/12JonHassellHasselBeforeAndAfterCharmLaNotte1980/03+-+Laurie+Spiegel+-+Spiegel+-+Appalachian+Grove+I+%281974%29.mp3)" (1974). On \[OHM\].
+Spiegel, Laurie. "{{% resource_link "4f6bfa25-f2a4-432a-b917-33220f2b8b7e" "Appalachian Grove I" %}}" (1974). On \[OHM\].
 
 Vercoe, Barry. "Synapse for Viola and Computer." *Digital Rewind: MIT Experimental Music Studio, 25th Anniversary, 1974-1999*. MIT Media Lab, 1999.
 
-- Video of performance with Marcus Thompson: MIT+150 From the Vault. "[MIT Experimental Music Studio (c. 1973)](https://infinitehistory.mit.edu/video/mit-experimental-music-studio-c-1973)." Feburary 9, 2011. MIT TechTV. Accessed July 21, 2011. \[Performance begins at 12:10\]
+- Video of performance with Marcus Thompson: MIT+150 From the Vault. "{{% resource_link "03b91ecf-2a94-4c02-bb72-d936551b6ea2" "MIT Experimental Music Studio (c. 1973)" %}}." Feburary 9, 2011. MIT TechTV. Accessed July 21, 2011. \[Performance begins at 12:10\]
 
 Dashow, James. "In Winter Shine" (1983). *Digital Rewind: MIT Experimental Music Studio, 25th Anniversary, 1974-1999*. MIT Media Lab, 1999.
 
@@ -518,10 +518,10 @@ Synthesis with code
  
 {{< tdclose >}}{{< tdopen >}}
 
-Wishart, Trevor. *Red Bird*, 1977. \[[Listen or download](http://www.ubu.com/sound/wishart.html) at UbuWeb\]
+Wishart, Trevor. *Red Bird*, 1977. \[{{% resource_link "1e582f9a-8ee0-461b-913a-f1b2a6fe64bf" "Listen or download" %}} at UbuWeb\]
 
 Roads, Curtis. "Now." *Point Line Cloud*. Asphodel Ltd., 2004. (Courtesy of Curtis Roads. Used with permission.)     
-Internet Archive ([MP3 - 14MB](http://www.archive.org/download/MIT21M.380F08/lisn21_roads.mp3)) 
+Internet Archive ({{% resource_link "43ccafae-63c6-40ca-881e-d2e4d7c12bad" "MP3 - 14MB" %}}) 
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -533,7 +533,7 @@ Discussion and workshop
  
 {{< tdclose >}}{{< tdopen >}}
 Ariza, Christopher. "onomatopoeticized" (2004). *Music from SEAMUS, Vol. 15.*     
-Internet Archive ([MP3 - 20MB](http://www.archive.org/download/MIT21M.380F08/lisn22_ariza.mp3)) 
+Internet Archive ({{% resource_link "cc5d57cd-fd05-45ae-a836-4ba7757db0f1" "MP3 - 20MB" %}}) 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
