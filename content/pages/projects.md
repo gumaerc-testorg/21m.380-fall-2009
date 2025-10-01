@@ -58,6 +58,6 @@ Students must also prepare and deliver a ten to fifteen minute aural presentatio
 
 "Turbo-Sonic Whopper" by Jillian Reddy ({{% resource_link "d9cc0997-e123-8a40-1f4b-6ec0f1239966" "PDF" %}})   
 Audio demo of the Turbo-Sonic Whopper   
-Internet Archive ([MP3](http://www.archive.org/download/MIT21M.380F08/proj_ssp_6.mp3)) ([WAV - 5.77MB](http://www.archive.org/download/MIT21M.380F08/proj_ssp_6.wav)) 
+Internet Archive ({{% resource_link "b69b6e91-8e23-41f6-a13b-5775aa131643" "MP3" %}}) ({{% resource_link "e5e35020-3c95-4e3e-8af0-1ccde4340580" "WAV - 5.77MB" %}}) 
 
 "The ChordMaster" by Andrew Sugaya ({{% resource_link "b1d5d22d-4f1a-03bb-f661-1dd2e2b25457" "PDF" %}})
